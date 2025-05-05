@@ -11,9 +11,9 @@ languageCode = "en-us"
 [params.homeInfoParams]
   Title = "ThreeWay Mobile Evidence Services"
   Content = '''
-<h3 style="margin-top:0;">📌 <em>Our Mission</em></h3>
+### 📌 Our Mission
 
-<p><strong>To simplify the complex process of gathering digital evidence, so you feel empowered and supported when you need it most.</strong></p>
+**To simplify the complex process of gathering digital evidence, so you feel empowered and supported when you need it most.**
 
 📱 Export existing text messages  
 📞 Retrieve detailed call logs  
