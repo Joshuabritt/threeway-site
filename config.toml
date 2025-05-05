@@ -1,4 +1,4 @@
-﻿baseURL = "https://681926b149ad6498afaa5861--rad-chebakia-78441d.netlify.app/"
+baseURL = "https://681926b149ad6498afaa5861--rad-chebakia-78441d.netlify.app/"
 title = "ThreeWay Mobile Evidence Services"
 theme = "PaperMod"
 languageCode = "en-us"
@@ -10,12 +10,12 @@ languageCode = "en-us"
 
 [params.homeInfoParams]
   Title = "ThreeWay Mobile Evidence Services"
-  Content = """Helping attorneys and clients extract and present digital evidence — clearly, legally, and on time.
+  Content = """Helping attorneys and clients extract and present digital evidence ? clearly, legally, and on time.
 
-📱 Export existing text messages  
-📞 Retrieve detailed call logs  
-💬 Capture app conversations (WhatsApp, Messenger, etc.)  
-📂 Package everything in clean, court-friendly reports
+?? Export existing text messages  
+?? Retrieve detailed call logs  
+?? Capture app conversations (WhatsApp, Messenger, etc.)  
+?? Package everything in clean, court-friendly reports
 
 Fast turnaround. No recovery guesswork. Just straightforward digital extraction for real legal needs."""
 
@@ -43,4 +43,3 @@ Fast turnaround. No recovery guesswork. Just straightforward digital extraction 
   name = "Contact"
   url = "/contact/"
   weight = 5
-
