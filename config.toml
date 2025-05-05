@@ -36,10 +36,10 @@ Fast turnaround. No recovery guesswork. Just straightforward digital extraction 
   url = "/services/"
   weight = 3
 
-[[menu.main]]
-  name = "Packages"
-  url = "/packages/"
-  weight = 4
+#[[menu.main]]
+ # name = "Packages"
+  #url = "/packages/"
+  #weight = 4
 
 [[menu.main]]
   name = "Contact"
