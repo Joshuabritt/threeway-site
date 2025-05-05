@@ -1,0 +1,52 @@
+baseURL = "http://localhost:1313/"
+title = "ThreeWay Mobile Evidence Services"
+theme = "PaperMod"
+languageCode = "en-us"
+
+[params]
+  author = "Joshua Britt"
+  ShowBrandLogo = true
+  disableAnchoredHeadings = true
+
+[params.homeInfoParams]
+  Title = "ThreeWay Mobile Evidence Services"
+  Content = '''
+Helping attorneys and clients extract and present digital evidence — clearly, legally, and on time.
+
+📱 Export existing text messages  
+📞 Retrieve detailed call logs  
+💬 Capture app conversations (WhatsApp, Messenger, etc.)  
+📂 Package everything in clean, court-friendly reports
+
+Fast turnaround. No recovery guesswork. Just straightforward digital extraction for real legal needs.
+'''
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Services"
+  url = "/services/"
+  weight = 3
+
+[[menu.main]]
+  name = "Packages"
+  url = "/packages/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
+
+#[[menu.main]]
+  #name = "Client Testimonials"
+ # url = "/posts/"
+  #weight = 6
