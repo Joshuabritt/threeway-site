@@ -1,4 +1,4 @@
-@'
+Set-Content -Encoding utf8 config.toml @"
 baseURL = "https://681926b149ad6498afaa5861--rad-chebakia-78441d.netlify.app/"
 title = "ThreeWay Mobile Evidence Services"
 theme = "PaperMod"
@@ -46,4 +46,4 @@ Fast turnaround. No recovery guesswork. Just straightforward digital extraction 
   name = "Contact"
   url = "/contact/"
   weight = 5
-'@ | Set-Content -Encoding utf8 config.toml
+"@
