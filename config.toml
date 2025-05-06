@@ -4,14 +4,14 @@ theme = "PaperMod"
 languageCode = "en-us"
 
 [params]
+  showPostList = false
   author = "Joshua Britt"
   ShowBrandLogo = true
   disableAnchoredHeadings = true
-  showPostList = false
 
-[params.homeInfoParams]
-  Title = "📱 Digital Evidence. Delivered Clearly."
-  Content = '''
+  [params.homeInfoParams]
+    Title = "📱 Digital Evidence. Delivered Clearly."
+    Content = '''
 Welcome to **ThreeWay Mobile Evidence Services**, where mobile data meets clarity and court-readiness.
 
 **Our Mission**  
