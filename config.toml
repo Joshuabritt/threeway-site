@@ -8,10 +8,15 @@ languageCode = "en-us"
   author = "Joshua Britt"
   ShowBrandLogo = true
   disableAnchoredHeadings = true
+  customCSS = ["css/custom.css"]
 
   [params.homeInfoParams]
     Title = "📱 Digital Evidence. Delivered Clearly."
     Content = '''
+<p align="center">
+  <img src="/mypic.png" alt="Joshua Britt - Founder" style="max-width:180px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 1rem;">
+</p>
+
 Welcome to **ThreeWay Mobile Evidence Services**, where mobile data meets clarity and court-readiness.
 
 ---
@@ -53,3 +58,8 @@ Welcome to **ThreeWay Mobile Evidence Services**, where mobile data meets clarit
   name = "Contact"
   url = "/contact/"
   weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
