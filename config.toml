@@ -4,6 +4,9 @@ theme = "PaperMod"
 languageCode = "en-us"
 
 [params]
+  showPostList = false
+
+[params]
   author = "Joshua Britt"
   ShowBrandLogo = true
   disableAnchoredHeadings = true
