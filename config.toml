@@ -32,13 +32,13 @@ Time-sensitive? We’re ready to help.
   weight = 1
 
 [[menu.main]]
-  name = "About"
-  url = "/about/"
+  name = "Services"
+  url = "/services/"
   weight = 2
 
 [[menu.main]]
-  name = "Services"
-  url = "/services/"
+  name = "About"
+  url = "/about/"
   weight = 3
 
 [[menu.main]]
