@@ -9,18 +9,25 @@ languageCode = "en-us"
   disableAnchoredHeadings = true
 
 [params.homeInfoParams]
-  Title = "ThreeWay Mobile Evidence Services"
+  Title = "📱 Digital Evidence. Delivered Clearly."
   Content = '''
-### 📌 Our Mission
+Welcome to **ThreeWay Mobile Evidence Services**, where mobile data meets clarity and court-readiness.
 
-**To simplify the complex process of gathering digital evidence, so you feel empowered and supported when you need it most.**
+**Our Mission**  
+To simplify the complex process of gathering digital evidence — so you feel empowered and supported when it matters most.
 
-📱 Export existing text messages  
-📞 Retrieve detailed call logs  
-💬 Capture app conversations (WhatsApp, Messenger, etc.)  
-📂 Package everything in clean, court-friendly reports
+---
 
-Fast turnaround. No recovery guesswork. Just straightforward digital extraction for real legal needs.
+### What We Do
+
+- 📱 Export existing text messages  
+- 📞 Retrieve detailed call logs  
+- 💬 Capture app conversations (WhatsApp, Messenger, etc.)  
+- 📂 Package everything in clean, court-friendly reports  
+
+⏱️ Fast turnaround.  
+⚖️ No recovery guesswork.  
+✅ Just straightforward digital extraction for real legal needs.
 '''
 
 [[menu.main]]
@@ -38,12 +45,7 @@ Fast turnaround. No recovery guesswork. Just straightforward digital extraction 
   url = "/services/"
   weight = 3
 
-#[[menu.main]]
-#  name = "Packages"
-#  url = "/packages/"
-#  weight = 4
-
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 5
+  weight = 4
