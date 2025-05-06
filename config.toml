@@ -4,12 +4,10 @@ theme = "PaperMod"
 languageCode = "en-us"
 
 [params]
-  showPostList = false
-
-[params]
   author = "Joshua Britt"
   ShowBrandLogo = true
   disableAnchoredHeadings = true
+  showPostList = false
 
 [params.homeInfoParams]
   Title = "📱 Digital Evidence. Delivered Clearly."
