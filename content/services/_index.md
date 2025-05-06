@@ -7,7 +7,7 @@ At ThreeWay Mobile Evidence Services, we focus on delivering clear, court-ready 
 ### Core Services
 
 - 📱 **Export Text Messages**  
-  We extract and organize SMS and iMessage conversations into easy-to-read, timestamped PDFs.
+  We extract and organize SMS and iMessage conversations into easy-to-read, timestamped HTML documents.
 
 - 📞 **Retrieve Call Logs**  
   Get a detailed list of incoming, outgoing, and missed calls from your mobile device.
