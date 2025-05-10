@@ -9,6 +9,7 @@ languageCode = "en-us"
   ShowBrandLogo = true
   disableAnchoredHeadings = true
   customCSS = ["css/custom.css"]
+  defaultTheme = "dark"  # 👈 add this line
 
   [params.homeInfoParams]
     Title = "📱 Digital Evidence. Delivered Clearly."
