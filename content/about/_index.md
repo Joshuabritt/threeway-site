@@ -27,6 +27,6 @@ I'm here, ready to help you reclaim a sense of calm and confidence.
 ### 📬 Need help with evidence?
 **Time-sensitive? We’re ready to help.**
 
-📧 [joshbritt78@gmail.com](mailto:joshbritt78@gmail.com)  
+📧 [threewaymobile@gmail.com](mailto:threewaymobile@gmail.com)  
 📞 [731-267-3529](tel:7312673529)
 

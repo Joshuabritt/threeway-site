@@ -13,7 +13,7 @@ We work with individuals and attorneys to extract, organize, and deliver mobile 
 **Time-sensitive? We’re ready to help.**
 
 - 📞 [731-267-3529](tel:7312673529)  
-- 📧 [joshbritt78@gmail.com](mailto:joshbritt78@gmail.com)  
+- 📧 [threewaymobile@gmail.com](mailto:threewaymobile@gmail.com)    
 - 📍 Jackson, Tennessee  
 - ⏱️ Response Time: Within 24 hours
 
